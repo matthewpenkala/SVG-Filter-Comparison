@@ -1,0 +1,692 @@
+Uri: https://afarkas.github.io/lazysizes/lazysizes.min.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\lazysizes\lazysizes.min.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.jwplayer.com/players/7ULvyEah-eclsroAc.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\players\7ULvyEah-eclsroAc.js
+Content Type: text/javascript
+
+Uri: https://cdn.jwplayer.com/players/ij2BcOdF-eclsroAc.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\players\ij2BcOdF-eclsroAc.js
+Content Type: text/javascript
+
+Uri: https://cdn.jwplayer.com/players/KATkrx7J-eclsroAc.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\players\KATkrx7J-eclsroAc.js
+Content Type: text/javascript
+
+Uri: https://cdn.jwplayer.com/players/xnDg91jI-eclsroAc.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\players\xnDg91jI-eclsroAc.js
+Content Type: text/javascript
+
+Uri: https://cdn.jwplayer.com/players/xuKNFKEp-eclsroAc.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\players\xuKNFKEp-eclsroAc.js
+Content Type: text/javascript
+
+Uri: https://cdn.lr-in.com/logger-1.min.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\logger-1.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.lr-in.com/LogRocket.min.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\LogRocket.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.snipcart.com/themes/v3.3.0/default/assets/icons/checkmark.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\themes\v3.3.0\default\assets\icons\checkmark.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.snipcart.com/themes/v3.3.0/default/snipcart.css
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\themes\v3.3.0\default\snipcart.css
+Content Type: text/css
+
+Uri: https://cdn.snipcart.com/themes/v3.3.0/default/snipcart.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\themes\v3.3.0\default\snipcart.js
+Content Type: application/x-javascript
+
+Uri: https://cdn.weglot.com/weglot.min.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\weglot.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\ajax\libs\animate.css\4.1.1\animate.min.css
+Content Type: text/css
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=604930b7b2bc7721fb1695c8
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://es.sarmmies.bio/
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\index.htm
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/about
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\about.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/blog
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\blog.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/category/lipotropics
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\category\lipotropics.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/category/post-cycle-therapy
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\category\post-cycle-therapy.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/category/sarms
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\category\sarms.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/checkout
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\checkout.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/contact
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\contact.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/faq
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\faq.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/post/advancements-in-anabolic-compounds-sarms
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\post\advancements-in-anabolic-compounds-sarms.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/post/the-infamous-gw501516-cardarine
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\post\the-infamous-gw501516-cardarine.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/privacy-policy
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\privacy-policy.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/product-coming-soon
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\product-coming-soon.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/product/gw501516
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\product\gw501516.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/product/lgd-4033
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\product\lgd-4033.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/product/mk-2866
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\product\mk-2866.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/product/mk-677
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\product\mk-677.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/product/rad140
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\product\rad140.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/store
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\store.html
+Content Type: text/html
+
+Uri: https://es.sarmmies.bio/terms-of-use
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\terms-of-use.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:300,500|Open+Sans:300,600
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://instant.page/5.1.0
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\5.1.0
+Content Type: text/javascript
+
+Uri: https://src.sarmmies.bio/distJS/aHREF-tou2_fauxUnderline.min.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\distJS\aHREF-tou2_fauxUnderline.min.js
+Content Type: application/javascript
+
+Uri: https://src.sarmmies.bio/distJS/clipboard.min.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\distJS\clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://src.sarmmies.bio/distJS/defer.min.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\distJS\defer.min.js
+Content Type: application/javascript
+
+Uri: https://src.sarmmies.bio/distJS/dynEmailReplaceAll.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\distJS\dynEmailReplaceAll.js
+Content Type: application/javascript
+
+Uri: https://src.sarmmies.bio/distJS/SNIPCART STYLESHEET - SARMMIES ANALYTICAL (MAIN PRIMARY).css
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\distJS\SNIPCART STYLESHEET - SARMMIES ANALYTICAL (MAIN PRIMARY).css
+Content Type: text/css
+
+Uri: https://src.sarmmies.bio/distJS/svg-inject.min.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\distJS\svg-inject.min.js
+Content Type: application/javascript
+
+Uri: https://src.sarmmies.bio/distJS/whitelabelEntitize-JWvideoPlayer.min.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\distJS\whitelabelEntitize-JWvideoPlayer.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/@popperjs/core@2.11.0/dist/umd/popper.min.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\@popperjs\core@2.11.0\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/tippy.js@6.3.7/dist/tippy-bundle.umd.min.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\tippy.js@6.3.7\dist\tippy-bundle.umd.min.js
+Content Type: application/javascript
+
+Uri: https://uploads-ssl.webflow.com/5ec7d60489378b3a4e787f7f/5f43bde6f4c975de735b5a6f_brush texture white.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\5ec7d60489378b3a4e787f7f\5f43bde6f4c975de735b5a6f_brush texture white.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/5ec7d60489378b3a4e787f7f/5f450bdaf0b1286fc57e8a20_check-green.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\5ec7d60489378b3a4e787f7f\5f450bdaf0b1286fc57e8a20_check-green.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5ec7d60489378b3a4e787f7f/5f4cc90443c7b7f75ee7c997_map.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\5ec7d60489378b3a4e787f7f\5f4cc90443c7b7f75ee7c997_map.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/5ec7d60489378b3a4e787f7f/5f4cc904833952c6e7371f4b_mail.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\5ec7d60489378b3a4e787f7f\5f4cc904833952c6e7371f4b_mail.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc7710ba169603_PlusJakartaDisplay-Bold.otf
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc7710ba169603_PlusJakartaDisplay-Bold.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc771a4316960f_shopping-bag-white.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc771a4316960f_shopping-bag-white.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc7720ed169609_brush-texture-dark.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc7720ed169609_brush-texture-dark.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc773b09169616_christian-bolt-VW5VjskNXZ8-unsplash.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc773b09169616_christian-bolt-VW5VjskNXZ8-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc77428416962d_zoom-in.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc77428416962d_zoom-in.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc774f1e1695fb_facebook-icon-dark.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc774f1e1695fb_facebook-icon-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc7756d3169604_PlusJakartaDisplay-Regular.otf
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc7756d3169604_PlusJakartaDisplay-Regular.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc775b4f169600_brush-texture-white.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc775b4f169600_brush-texture-white.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc7760d31695fa_instagram-icon-dark.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc7760d31695fa_instagram-icon-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc7762c9169612_Search.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc7762c9169612_Search.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc77690c169606_PlusJakartaDisplay-Medium.otf
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc77690c169606_PlusJakartaDisplay-Medium.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc77698b169605_PlusJakartaDisplay-Light.otf
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc77698b169605_PlusJakartaDisplay-Light.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc777199169631_zap.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc777199169631_zap.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc7797d2169608_shopping-bag-dark.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc7797d2169608_shopping-bag-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc77a92216962c_check-green.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc77a92216962c_check-green.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc77b32416962a_insta dark purple.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc77b32416962a_insta dark purple.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc77d7d216963d_star-empty.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc77d7d216963d_star-empty.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc77de15169607_home-muted.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc77de15169607_home-muted.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc77e40816963c_star-half.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc77e40816963c_star-half.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc77fce316963e_star-full.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc77fce316963e_star-full.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/604930b8b2bc77fffa169611_Close Red.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\604930b8b2bc77fffa169611_Close Red.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60493101cc9ecc78ac039ec2_Sammies Logo.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60493101cc9ecc78ac039ec2_Sammies Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60495ce2f47d686daa3aedcf_Sarmmies_Webclip.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60495ce2f47d686daa3aedcf_Sarmmies_Webclip.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60495d1c9b54fd421d470c35_Sarmmies_Favicon.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60495d1c9b54fd421d470c35_Sarmmies_Favicon.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60496a8faaf0062ced98ee5b_Sarmmies Logo (FOOTER).svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60496a8faaf0062ced98ee5b_Sarmmies Logo (FOOTER).svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/6060376e53c539ecf1a58b1e_Sarmmies Icon.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\6060376e53c539ecf1a58b1e_Sarmmies Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/6068304686b1f27848bc825a_FOOTER_LOGO_MOBILE.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\6068304686b1f27848bc825a_FOOTER_LOGO_MOBILE.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/606833c7dd78fd71a56b16c1_ACCENT_AUX_LOGO.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\606833c7dd78fd71a56b16c1_ACCENT_AUX_LOGO.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/6068794216f374de5e07ca4e_chemistry_background_pexels-poster-00001.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\6068794216f374de5e07ca4e_chemistry_background_pexels-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/6068794216f374de5e07ca4e_chemistry_background_pexels-transcode.mp4
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\6068794216f374de5e07ca4e_chemistry_background_pexels-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/6068794216f374de5e07ca4e_chemistry_background_pexels-transcode.webm
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\6068794216f374de5e07ca4e_chemistry_background_pexels-transcode.webm
+Content Type: video/webm
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60687a56fb08b424a56f0709_LOGO_ANI_500x.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60687a56fb08b424a56f0709_LOGO_ANI_500x.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/608ba066e7010f5e976a2869_MAIN_BG_COLOR-poster-00001.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\608ba066e7010f5e976a2869_MAIN_BG_COLOR-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/608ba066e7010f5e976a2869_MAIN_BG_COLOR-transcode.mp4
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\608ba066e7010f5e976a2869_MAIN_BG_COLOR-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/608ba066e7010f5e976a2869_MAIN_BG_COLOR-transcode.webm
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\608ba066e7010f5e976a2869_MAIN_BG_COLOR-transcode.webm
+Content Type: video/webm
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/608ba72d0b130c711c9b963a_SARMS_ABOUT_BG-poster-00001.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\608ba72d0b130c711c9b963a_SARMS_ABOUT_BG-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/608ba72d0b130c711c9b963a_SARMS_ABOUT_BG-transcode.mp4
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\608ba72d0b130c711c9b963a_SARMS_ABOUT_BG-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/608ba72d0b130c711c9b963a_SARMS_ABOUT_BG-transcode.webm
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\608ba72d0b130c711c9b963a_SARMS_ABOUT_BG-transcode.webm
+Content Type: video/webm
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/608bd66df0350e5654360b4f_SARMS_HEADER_LIQUID_BG-poster-00001.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\608bd66df0350e5654360b4f_SARMS_HEADER_LIQUID_BG-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/608bd66df0350e5654360b4f_SARMS_HEADER_LIQUID_BG-transcode.mp4
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\608bd66df0350e5654360b4f_SARMS_HEADER_LIQUID_BG-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/608bd66df0350e5654360b4f_SARMS_HEADER_LIQUID_BG-transcode.webm
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\608bd66df0350e5654360b4f_SARMS_HEADER_LIQUID_BG-transcode.webm
+Content Type: video/webm
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/608cb56cc9c9017a687867a4_FDA_Mark.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\608cb56cc9c9017a687867a4_FDA_Mark.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/608cca1cf2757a38e949e5b3_SARMS_FDA_Disclaimer.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\608cca1cf2757a38e949e5b3_SARMS_FDA_Disclaimer.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60909a8294ae5856e4653888_SARMS_COMPANY_DISCLAIMER.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60909a8294ae5856e4653888_SARMS_COMPANY_DISCLAIMER.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/6090ce931b2c3d6258bcdb24_SARMS_MOBL_HIGHLIGHT.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\6090ce931b2c3d6258bcdb24_SARMS_MOBL_HIGHLIGHT.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/609105c6bdbe4740aab38025_SARMS_DSKTP_HIGHLIGHT.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\609105c6bdbe4740aab38025_SARMS_DSKTP_HIGHLIGHT.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60911b1293079df2fd82ec69_SARMS_DSKTP_CART.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60911b1293079df2fd82ec69_SARMS_DSKTP_CART.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60911c1811aa5afeca19c56e_SARMS_MOBL_CART.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60911c1811aa5afeca19c56e_SARMS_MOBL_CART.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/609a6e6718cf68bc40417815_Free Shipping Icon.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\609a6e6718cf68bc40417815_Free Shipping Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/609a6e81dd44403cd8a81322_Friendly Support Icon.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\609a6e81dd44403cd8a81322_Friendly Support Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/609a6eaf0fc6a56f754444a8_Secure Payments Icon.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\609a6eaf0fc6a56f754444a8_Secure Payments Icon.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60b990df92cb5f6f267819ef_Lightbox Hover.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60b990df92cb5f6f267819ef_Lightbox Hover.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60be045239cff4035138bfae_WELCOME_WEB_BANNER.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60be045239cff4035138bfae_WELCOME_WEB_BANNER.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60be1e08a81d4c5a0dee6f29_RAD140.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60be1e08a81d4c5a0dee6f29_RAD140.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60c91fc814c826a8a0e9b4fb_SRMS_COMING-SOON_PAGE.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60c91fc814c826a8a0e9b4fb_SRMS_COMING-SOON_PAGE.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60cfc1b1d1bfb18634fdabe5_ContactUs_Globe.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60cfc1b1d1bfb18634fdabe5_ContactUs_Globe.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60d00334102e0b08874fe0a8_chemistry_background_still.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60d00334102e0b08874fe0a8_chemistry_background_still.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60d0105755b0510eab3aa6ae_SRMS_IG_1.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60d0105755b0510eab3aa6ae_SRMS_IG_1.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60d0106dd1bfb171cdfed550_SRMS_IG_2.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60d0106dd1bfb171cdfed550_SRMS_IG_2.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/60d938c8f09a5146d8bb75da_SRMS_IG_3_comp.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\60d938c8f09a5146d8bb75da_SRMS_IG_3_comp.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/61133ae03ab4d5a5246bfcc4_CART_POLICIES_CONFIRM.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\61133ae03ab4d5a5246bfcc4_CART_POLICIES_CONFIRM.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/61135ebaeca7c9a08b825ee0_youtube-icon-dark.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\61135ebaeca7c9a08b825ee0_youtube-icon-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/611fc6368b8c37f7b6898f7d_LEGAL_POLICIES_SRMS_TM.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\611fc6368b8c37f7b6898f7d_LEGAL_POLICIES_SRMS_TM.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/61229cc54c22ec09f0ff0ff0_PAY-WITH_BANK-ACCOUNT.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\61229cc54c22ec09f0ff0ff0_PAY-WITH_BANK-ACCOUNT.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/61229ed9ea7a95263ac041ad_PAY-WITH_CASHAPP.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\61229ed9ea7a95263ac041ad_PAY-WITH_CASHAPP.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/612b4df575843d8427e09e28_PAY-WITH_CC-MESH.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\612b4df575843d8427e09e28_PAY-WITH_CC-MESH.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/613f5aac472a834094da007b_CERTIFIED_PURE_BADGE.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\613f5aac472a834094da007b_CERTIFIED_PURE_BADGE.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/613f88a7d9871361133c65fb_AffPortal_Users.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\613f88a7d9871361133c65fb_AffPortal_Users.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/613fc4cd4147ee77cccb7e85_PURE-BADGE_GLOW.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\613fc4cd4147ee77cccb7e85_PURE-BADGE_GLOW.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/614d55869de5dd0653ad484b_SRMS_PAY_LOAD.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\614d55869de5dd0653ad484b_SRMS_PAY_LOAD.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/6178d24a47638a1035e9ef0f_CART_HELP-CC_TXT.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\6178d24a47638a1035e9ef0f_CART_HELP-CC_TXT.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/61bfde6a420d048dff2520ff_CART_POLICIES_CONFIRM.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\61bfde6a420d048dff2520ff_CART_POLICIES_CONFIRM.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/61c7045fee9ee40eac5880eb_SRMS-WAVE_TILE.gif
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\61c7045fee9ee40eac5880eb_SRMS-WAVE_TILE.gif
+Content Type: image/gif
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/61d34e0ec5a52153e024014e_LBRTS-CUR.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\61d34e0ec5a52153e024014e_LBRTS-CUR.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/61e7fd14da26f3236b3ad11b_GDPR-COMPLIANT_BADGE.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\61e7fd14da26f3236b3ad11b_GDPR-COMPLIANT_BADGE.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/62240977ead711537988b0f8_WELCOME_WEB_BANNER__BG-REFLECT.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\62240977ead711537988b0f8_WELCOME_WEB_BANNER__BG-REFLECT.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/623b9729a53eb0ca145484e9_SECURE_PAYMENTS_BADGE.svg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\623b9729a53eb0ca145484e9_SECURE_PAYMENTS_BADGE.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/css/sarmmies-analytical.webflow.73eced960.min.css
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\css\sarmmies-analytical.webflow.73eced960.min.css
+Content Type: text/css
+
+Uri: https://uploads-ssl.webflow.com/604930b7b2bc7721fb1695c8/js/webflow.e045a700e.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b7b2bc7721fb1695c8\js\webflow.e045a700e.js
+Content Type: text/javascript
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/608c95f962270c73025e2fb2_scientist-electrophoresis-biological-research-LARGE-p-1080.jpeg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\608c95f962270c73025e2fb2_scientist-electrophoresis-biological-research-LARGE-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/608c95f962270c73025e2fb2_scientist-electrophoresis-biological-research-LARGE-p-1600.jpeg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\608c95f962270c73025e2fb2_scientist-electrophoresis-biological-research-LARGE-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/608c95f962270c73025e2fb2_scientist-electrophoresis-biological-research-LARGE.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\608c95f962270c73025e2fb2_scientist-electrophoresis-biological-research-LARGE.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/608c95fe0538f3436564f545_scientist-electrophoresis-biological-research-SMALL-p-1080.jpeg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\608c95fe0538f3436564f545_scientist-electrophoresis-biological-research-SMALL-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/608c95fe0538f3436564f545_scientist-electrophoresis-biological-research-SMALL.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\608c95fe0538f3436564f545_scientist-electrophoresis-biological-research-SMALL.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/608c99d2af19db51d275de55_scientists-research-lab-chemical-drugs-LARGE.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\608c99d2af19db51d275de55_scientists-research-lab-chemical-drugs-LARGE.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/6094e3a136fa257fa6ca92a1_RAD140-p-500.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\6094e3a136fa257fa6ca92a1_RAD140-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/6094e3a136fa257fa6ca92a1_RAD140-p-800.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\6094e3a136fa257fa6ca92a1_RAD140-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/6094e3a136fa257fa6ca92a1_RAD140.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\6094e3a136fa257fa6ca92a1_RAD140.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60b78ee544a185db15db3908_MK-677-p-500.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60b78ee544a185db15db3908_MK-677-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60b78ee544a185db15db3908_MK-677-p-800.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60b78ee544a185db15db3908_MK-677-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60b78ee544a185db15db3908_MK-677.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60b78ee544a185db15db3908_MK-677.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60b78f89f4632f415a610c87_MK-2866-p-500.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60b78f89f4632f415a610c87_MK-2866-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60b78f89f4632f415a610c87_MK-2866-p-800.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60b78f89f4632f415a610c87_MK-2866-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60b78f89f4632f415a610c87_MK-2866.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60b78f89f4632f415a610c87_MK-2866.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60b790736b277260bbd2763d_GW501516-p-500.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60b790736b277260bbd2763d_GW501516-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60b790736b277260bbd2763d_GW501516-p-800.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60b790736b277260bbd2763d_GW501516-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60b790736b277260bbd2763d_GW501516.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60b790736b277260bbd2763d_GW501516.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60b790ef42e939792fedac48_LGD-4033-p-500.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60b790ef42e939792fedac48_LGD-4033-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60b790ef42e939792fedac48_LGD-4033-p-800.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60b790ef42e939792fedac48_LGD-4033-p-800.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60b790ef42e939792fedac48_LGD-4033.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60b790ef42e939792fedac48_LGD-4033.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60c427f0af08bd74ad2a2012_RAD140-p-500.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60c427f0af08bd74ad2a2012_RAD140-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60c427f0af08bd74ad2a2012_RAD140.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60c427f0af08bd74ad2a2012_RAD140.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60c428ab6720610caa62f475_MK677-p-500.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60c428ab6720610caa62f475_MK677-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60c428ab6720610caa62f475_MK677.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60c428ab6720610caa62f475_MK677.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60c428bfaf08bde8352a2198_MK2866-p-500.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60c428bfaf08bde8352a2198_MK2866-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60c428bfaf08bde8352a2198_MK2866.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60c428bfaf08bde8352a2198_MK2866.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60c428d3dfa29db7a66aae56_GW50156-p-500.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60c428d3dfa29db7a66aae56_GW50156-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60c428d3dfa29db7a66aae56_GW50156.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60c428d3dfa29db7a66aae56_GW50156.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60c428e8af08bdc9cd2a21b3_LGD4033-p-500.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60c428e8af08bdc9cd2a21b3_LGD4033-p-500.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/60c428e8af08bdc9cd2a21b3_LGD4033.png
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\60c428e8af08bdc9cd2a21b3_LGD4033.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/61432a918424404324936890_KRAS-driven_cancer_national-cancer-institute_SMALL-p-1080.jpeg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\61432a918424404324936890_KRAS-driven_cancer_national-cancer-institute_SMALL-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/61432a918424404324936890_KRAS-driven_cancer_national-cancer-institute_SMALL-p-500.jpeg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\61432a918424404324936890_KRAS-driven_cancer_national-cancer-institute_SMALL-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/61432a918424404324936890_KRAS-driven_cancer_national-cancer-institute_SMALL-p-800.jpeg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\61432a918424404324936890_KRAS-driven_cancer_national-cancer-institute_SMALL-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/61432a918424404324936890_KRAS-driven_cancer_national-cancer-institute_SMALL.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\61432a918424404324936890_KRAS-driven_cancer_national-cancer-institute_SMALL.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/604930b8b2bc7745fd1695d2/61432b0a1c7620816019c163_bioproducts-sciences_and_engineering-laboratory_PNNL.jpg
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\604930b8b2bc7745fd1695d2\61432b0a1c7620816019c163_bioproducts-sciences_and_engineering-laboratory_PNNL.jpg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-595RWG5NZL
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.paypal.com/sdk/js?client-id=AeVgr6n0UlS9_b4u45Nlkd2mpKc6VUe9wjw2oKRrsXzIXZJ4K1q1CUaXvrTgcB5j0jb-E3fEwDD6DOEd&merchant-id=24UZR7K3FHUTN&currency=USD&commit=false
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\sdk\js
+Content Type: application/javascript
+
+Uri: https://www.sarmmies.bio/svg-filter-comparison
+File Name: C:\Users\matth\Desktop\filter compare\www.sarmmies.bio\svg-filter-comparison.html
+Content Type: text/html
+
